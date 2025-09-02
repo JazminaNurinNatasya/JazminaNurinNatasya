@@ -1,12 +1,13 @@
 # 💫 About Me:
-🔭 Seeking an opportunity to start my career in Data <br>🌱 Experienced as a Big Data Intern in Insurance/Financial sector <br>⚡ Fun fact : Ambitious and Eager Fresher
 
 # 👋 Hi, I'm Jazmina Nurin Natasya  
 
+🔭 Seeking an opportunity to start my career in Data
 🎓 Fresh Statistics Graduate @ UKM  
 💼 Former Big Data Intern @ Generali Insurance  
 📊 Passionate about turning data into insights that drive decision-making  
-🌱 Exploring AI, machine learning, and sustainable development analytics  
+🌱 Exploring AI, machine learning, and sustainable development analytics
+⚡ Fun fact : Ambitious and Eager Fresher
 
 ---
 
