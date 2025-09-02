@@ -13,7 +13,7 @@
 
 ## 🔧 Skills & Tools
 - **Programming & Data**: Python, R, SQL, SAS, Java, C++, Excel
-- **Data Visualization**: Power BI, Matplotlib, Seaborn  
+- **Data Visualization**: Power BI, Matplotlib, ggplot  
 - **Machine Learning**: Scikit-learn, XGBoost, LSTM, ARIMA  
 - **Other Tools**: Git, AS400, SAP  
 
