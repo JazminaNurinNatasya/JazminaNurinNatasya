@@ -38,7 +38,7 @@ Here are some of the projects I've been working on (click to explore):
 
 ## 📫 Connect with Me
 - 💼 [Portfolio](https://www.website.com/) 
-✨ *Always open to collaborations on data science, AI, and sustainability projects!*  
+<br>✨ *Always open to collaborations on data science, AI, and sustainability projects!*  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jazmina-nurin-natasya) 
