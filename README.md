@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Final Year Project (Kijang Emas)<br>🌱 I’m currently looking for an internship opportunity in a data-driven field<br>⚡ Fun fact : Ambitious Student
+🔭 Seeking an opportunity to start my career in Data <br>🌱 Experrienced as a Big Data Intern in Insurance/Financial sector <br>⚡ Fun fact : Ambitious and Eager Fresher
 
 
 ## 🌐 Socials:
