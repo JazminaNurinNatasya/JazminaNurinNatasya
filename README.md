@@ -7,7 +7,7 @@
 💼 Former Big Data Intern @ Generali Insurance  
 📊 Passionate about turning data into insights that drive decision-making  
 🌱 Exploring AI, machine learning, and sustainable development analytics
-⚡ Fun fact : Ambitious and Eager Fresher
+<br>⚡ Fun fact : Ambitious and Eager Fresher
 
 ---
 
