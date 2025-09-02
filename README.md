@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Seeking an opportunity to start my career in Data <br>🌱 Experrienced as a Big Data Intern in Insurance/Financial sector <br>⚡ Fun fact : Ambitious and Eager Fresher
+🔭 Seeking an opportunity to start my career in Data <br>🌱 Experienced as a Big Data Intern in Insurance/Financial sector <br>⚡ Fun fact : Ambitious and Eager Fresher
 
 
 ## 🌐 Socials:
