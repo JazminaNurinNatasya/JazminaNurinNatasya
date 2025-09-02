@@ -1,6 +1,47 @@
 # 💫 About Me:
 🔭 Seeking an opportunity to start my career in Data <br>🌱 Experienced as a Big Data Intern in Insurance/Financial sector <br>⚡ Fun fact : Ambitious and Eager Fresher
 
+# 👋 Hi, I'm Jazmina Nurin Natasya  
+
+🎓 Final-year Statistics student @ UKM  
+💼 Former Big Data Intern @ Generali Insurance  
+📊 Passionate about turning data into insights that drive decision-making  
+🌱 Exploring AI, machine learning, and sustainable development analytics  
+
+---
+
+## 🔧 Skills & Tools
+- **Programming & Data**: Python, R, SQL, SAS  
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
+- **Machine Learning**: Scikit-learn, XGBoost, LSTM, ARIMA  
+- **Other Tools**: Git, AS400, Excel  
+
+---
+
+## 📌 Featured Projects
+Here are some of the projects I've been working on (click to explore):  
+
+- 🔮 [**Gold Price Forecasting**](#) — Compared **LSTM vs ARIMA** to predict Kijang Emas prices  
+- ⚡ [**Energy Intensity Analysis (Malaysia & ASEAN)**](#) — Studying the role of renewables & industry in energy intensity trends  
+- 🦟 [**Dengue Epidemiology Dashboard**](#) — Person, place, and time analysis using WHO datasets  
+- 📑 [**Insurance Data Validation Pipeline**](#) — Automated data reconciliation from AS400 to reporting systems  
+
+---
+
+## 🌟 Highlights
+- 📈 Experienced in **data analysis, engineering, validation, and visualization** from my internship at Generali Insurance  
+- 🧠 Strong academic background in statistics with projects involving **time series forecasting, epidemiology, and energy economics**  
+- 🤝 Able to work in **team-based environments**, present findings, and deliver impactful insights  
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 🐙 [GitHub](https://github.com/yourusername)  
+- 📧 jazmina@example.com  
+
+---
+✨ *Always open to collaborations on data science, AI, and sustainability projects!*  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jazmina-nurin-natasya) 
